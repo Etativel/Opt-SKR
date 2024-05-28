@@ -1,0 +1,10 @@
+best_normal1 = [15,48,88,3,5,5]
+best_normal2 = [33,47,73,4,8,20]
+
+best_CLAHE1 = [38,61,97,4,9,18]
+best_CLAHE2 = [38, 61, 83, 4, 9, 18]
+best_CLAHE(notused) = [29,45,75,4,4,5]
+
+best_limit1 = [45,46,91,6,5,17]
+best_limit2 = [47, 49, 96, 5, 5, 19]
+best_limit(notused) = [29,45,75,4,4,5]
